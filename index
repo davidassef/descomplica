@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfolio</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <a class="navbar-brand" href="#">Meu Portfolio</a>
+        </nav>
+    </header>
+    <main class="container mt-5">
+        <section class="mb-5">
+            <h1>Bem-vindo ao Meu Portfolio</h1>
+            <p>Este é um breve resumo das minhas habilidades e projetos.</p>
+        </section>
+        <section>
+            <h2>Habilidades</h2>
+            <p>Aqui você pode adicionar suas habilidades técnicas, como programação em HTML, CSS, JavaScript, etc.</p>
+        </section>
+        <!-- Adicione mais seções conforme necessário -->
+    </main>
+    <footer class="text-center mt-5">
+        <p>&copy; 2024 Meu Nome. Todos os direitos reservados.</p>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.5/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
