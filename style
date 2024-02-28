@@ -1,0 +1,10 @@
+body {
+    padding-top: 56px; /* Espaço para a navbar fixa */
+}
+
+footer {
+    margin-top: 40px;
+    padding: 20px 0;
+    background-color: #f8f9fa;
+    color: #6c757d;
+}
